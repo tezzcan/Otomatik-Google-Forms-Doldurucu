@@ -1,2 +1,2 @@
-#Otomatik Google Forms Doldurucu
+# Otomatik Google Forms Doldurucu
 Bence isim herşeyi açıklıyo
